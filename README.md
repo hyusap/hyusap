@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://iplogger.org/1py5r7"/>
-<img src="https://iplogger.org/listfull/y68391py5r7"/>
+- 🔭 I’m currently working on ... robotics
+- 🌱 I’m currently learning ... c++ and java
+- 👯 I’m looking to collaborate on ... fun projects
+- 🤔 I’m looking for help with ... life
+- 💬 Ask me about ... anything
+- 📫 How to reach me: ... add a issue to a project or something
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... i don't know
